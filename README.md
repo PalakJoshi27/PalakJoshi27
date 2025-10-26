@@ -8,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me:
-- 🎓 2st Year B.Tech CSE student at HMRITM  
+- 🎓 2nd Year B.Tech CSE student at HMRITM  
 - 🌐 Currently learning **React**, **Tailwind CSS**, and **AI integration in web apps**
 - 🌱 Always open to collaborate on **fun frontend projects**
 - 🎯 Goal: Build creative tools that help students and developers
