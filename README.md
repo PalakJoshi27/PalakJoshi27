@@ -30,12 +30,6 @@
 
 ---
 
-### 🌈 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/palakjoshi)  
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%F0%9F%92%BC-informational?style=for-the-badge)](https://your-portfolio-link.com) *(add this when ready)*
-
----
-
 ⭐️ Thanks for visiting! Always up for building something amazing 💫
 
 <!--
