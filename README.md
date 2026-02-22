@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palakjoshi&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palakjoshi&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
 ⭐️ Thanks for visiting! Always up for building something amazing 💫
 
 <!--
